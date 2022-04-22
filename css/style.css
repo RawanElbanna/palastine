@@ -1,1 +1,27 @@
-
+.first_color{
+    height: 60px;
+    width: 500px;
+    background-color: black;
+}
+.sec_color{
+    height: 60px;
+    width: 500px;
+    background-color: #fff;
+}
+.third_color{
+    height: 60px;
+    width: 500px;
+    background-color: green;
+}
+.fourth_color{
+    width: 0;
+	height: 0;
+	border-top: 90px solid transparent;
+	border-left: 80px solid red;
+	border-bottom: 90px solid transparent;
+    margin-top: -180px;
+}
+.palastine{
+    margin-top: 90px;
+    margin-left: 450px;
+}
